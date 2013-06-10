@@ -1,0 +1,11 @@
+.item-viewer {
+	height:30px;
+
+	background: #333;
+}
+
+.clear:after {
+  content: "";
+  display: table;
+  clear: both;
+}
